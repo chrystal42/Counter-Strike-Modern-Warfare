@@ -23,3 +23,10 @@ A: If your phone can play codm, you can play this mod too
 Q: Multiplayer Supported?                                
 A: No.
 
+## Credits
+- Nekyo-ko                           
+- Viper                           
+- Scobalula                           
+- Bryan Romanov                           
+- Tempo Channel                           
+
